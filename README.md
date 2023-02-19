@@ -1,6 +1,6 @@
-# IBM CAD220EN: Developing Cloud Applications with Node.js and React
+# IBM Watson Natural Language Understanding Project
 
-This was the final project for an IBM/edX course. Since completing this course, I'm now able to:
+This was the final project for the Developing Cloud Applications with Node.js and React IBM/edX course. Since completing this course, I'm now able to:
 
 - Create server-side applications with Node.js 
 - Practice DevOps and utilize continuous delivery pipelines 
